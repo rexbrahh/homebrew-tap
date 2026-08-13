@@ -3,8 +3,8 @@ class SeshCompresh < Formula
 
   desc "Transactional local session archiving and allowlisted build-cache cleanup"
   homepage "https://github.com/rexbrahh/sesh-compresh"
-  url "https://github.com/rexbrahh/sesh-compresh/archive/refs/tags/v0.2.0.tar.gz"
-  sha256 "90ca8dee14790d411c630aa4f36ebb666ff59a22d16e83fe89ae1c7f1033ead0"
+  url "https://github.com/rexbrahh/sesh-compresh/archive/refs/tags/v0.2.1.tar.gz"
+  sha256 "ed2b9d7bf1e35cfdc38387eef0a2d06e0319553f30f2774c85f59c329d43b81f"
   license "MIT"
 
   depends_on "python@3.13"
