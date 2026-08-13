@@ -6,6 +6,7 @@ Homebrew tap for Rex Liu's macOS apps and command-line tools.
 
 ```sh
 brew tap rexbrahh/tap
+brew install --cask cleanroom
 brew install --cask icloud-guard
 ```
 
@@ -13,4 +14,3 @@ brew install --cask icloud-guard
 
 - `Casks/` contains GUI app casks.
 - `Formula/` contains command-line formulae.
-
