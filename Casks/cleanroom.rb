@@ -1,6 +1,6 @@
 cask "cleanroom" do
-  version "3.2.4,12"
-  sha256 "45922973982b2a97524ce53ffa3f82813273f10eb10c02f0bb361bd280c1f1e3"
+  version "3.2.7,18"
+  sha256 "ee6a00ede89e50e83ff0d899d8261fd1a7baea76a3df5dd4cbdb318db8075cac"
 
   url "https://github.com/rexbrahh/cleanroom/releases/download/v#{version.csv.first}/Cleanroom.zip"
   name "Cleanroom"
