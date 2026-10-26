@@ -3,9 +3,9 @@ require "language/node"
 class Phi < Formula
   desc "Local coding terminal powered by the Claude Agent SDK"
   homepage "https://github.com/rexbrahh/phi"
-  url "https://github.com/rexbrahh/phi/releases/download/v1.0.1/phi-1.0.1.tar.gz"
-  sha256 "82f91c1d8d78eb7c0f87ed46b4d02ef2ac312e132e348085b69d48ee448b33e1"
-  version "1.0.1"
+  url "https://github.com/rexbrahh/phi/releases/download/v1.0.3/phi-1.0.3.tar.gz"
+  sha256 "799681c889043ef4eff10e6f8f7a9e1ad6cbceff365798e0f978f8eb35c4b586"
+  version "1.0.3"
 
   depends_on "gh"
   depends_on "git"
